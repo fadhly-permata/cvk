@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Metadata;
 
 namespace Repository.Contexts
 {
-    public partial class CvkmpContext : DbContext
+    internal partial class CvkmpContext : DbContext
     {
         private readonly string _conString;
 

@@ -9,3 +9,14 @@ D:\- INT\Cv.KMP\ToDoApps\Repository\obj\Debug\netcoreapp3.1\Repository.pdb
 D:\- INT\Cv.KMP\ToDoApps\Repository\bin\Debug\netcoreapp3.1\BsTableQueryable.dll
 D:\- INT\Cv.KMP\ToDoApps\Repository\bin\Debug\netcoreapp3.1\BsTableQueryable.pdb
 D:\- INT\Cv.KMP\ToDoApps\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+D:\- INT\Cv.KMP\Repo\cvk\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+D:\- INT\Cv.KMP\Repo\cvk\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+D:\- INT\Cv.KMP\Repo\cvk\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+D:\- INT\Cv.KMP\Repo\cvk\Repository\bin\Debug\netcoreapp3.1\BsTableQueryable.dll
+D:\- INT\Cv.KMP\Repo\cvk\Repository\bin\Debug\netcoreapp3.1\BsTableQueryable.pdb
+D:\- INT\Cv.KMP\Repo\cvk\Repository\obj\Debug\netcoreapp3.1\Repository.csprojAssemblyReference.cache
+D:\- INT\Cv.KMP\Repo\cvk\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+D:\- INT\Cv.KMP\Repo\cvk\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+D:\- INT\Cv.KMP\Repo\cvk\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+D:\- INT\Cv.KMP\Repo\cvk\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+D:\- INT\Cv.KMP\Repo\cvk\Repository\obj\Debug\netcoreapp3.1\Repository.pdb

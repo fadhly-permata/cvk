@@ -6,3 +6,11 @@ D:\- INT\Cv.KMP\ToDoApps\BsTableQueryable\obj\Debug\netcoreapp3.1\BsTableQueryab
 D:\- INT\Cv.KMP\ToDoApps\BsTableQueryable\bin\Debug\netcoreapp3.1\BsTableQueryable.pdb
 D:\- INT\Cv.KMP\ToDoApps\BsTableQueryable\obj\Debug\netcoreapp3.1\BsTableQueryable.dll
 D:\- INT\Cv.KMP\ToDoApps\BsTableQueryable\obj\Debug\netcoreapp3.1\BsTableQueryable.pdb
+D:\- INT\Cv.KMP\Repo\cvk\BsTableQueryable\bin\Debug\netcoreapp3.1\BsTableQueryable.deps.json
+D:\- INT\Cv.KMP\Repo\cvk\BsTableQueryable\bin\Debug\netcoreapp3.1\BsTableQueryable.dll
+D:\- INT\Cv.KMP\Repo\cvk\BsTableQueryable\bin\Debug\netcoreapp3.1\BsTableQueryable.pdb
+D:\- INT\Cv.KMP\Repo\cvk\BsTableQueryable\obj\Debug\netcoreapp3.1\BsTableQueryable.csprojAssemblyReference.cache
+D:\- INT\Cv.KMP\Repo\cvk\BsTableQueryable\obj\Debug\netcoreapp3.1\BsTableQueryable.AssemblyInfoInputs.cache
+D:\- INT\Cv.KMP\Repo\cvk\BsTableQueryable\obj\Debug\netcoreapp3.1\BsTableQueryable.AssemblyInfo.cs
+D:\- INT\Cv.KMP\Repo\cvk\BsTableQueryable\obj\Debug\netcoreapp3.1\BsTableQueryable.dll
+D:\- INT\Cv.KMP\Repo\cvk\BsTableQueryable\obj\Debug\netcoreapp3.1\BsTableQueryable.pdb

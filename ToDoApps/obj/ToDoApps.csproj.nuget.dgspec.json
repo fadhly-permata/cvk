@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\- INT\\Cv.KMP\\ToDoApps\\ToDoApps\\ToDoApps.csproj": {}
+    "D:\\- INT\\Cv.KMP\\Repo\\cvk\\ToDoApps\\ToDoApps.csproj": {}
   },
   "projects": {
-    "D:\\- INT\\Cv.KMP\\ToDoApps\\BsTableQueryable\\BsTableQueryable.csproj": {
+    "D:\\- INT\\Cv.KMP\\Repo\\cvk\\BsTableQueryable\\BsTableQueryable.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\- INT\\Cv.KMP\\ToDoApps\\BsTableQueryable\\BsTableQueryable.csproj",
+        "projectUniqueName": "D:\\- INT\\Cv.KMP\\Repo\\cvk\\BsTableQueryable\\BsTableQueryable.csproj",
         "projectName": "BsTableQueryable",
-        "projectPath": "D:\\- INT\\Cv.KMP\\ToDoApps\\BsTableQueryable\\BsTableQueryable.csproj",
+        "projectPath": "D:\\- INT\\Cv.KMP\\Repo\\cvk\\BsTableQueryable\\BsTableQueryable.csproj",
         "packagesPath": "C:\\Users\\Permata\\.nuget\\packages\\",
-        "outputPath": "D:\\- INT\\Cv.KMP\\ToDoApps\\BsTableQueryable\\obj\\",
+        "outputPath": "D:\\- INT\\Cv.KMP\\Repo\\cvk\\BsTableQueryable\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -70,14 +70,14 @@
         }
       }
     },
-    "D:\\- INT\\Cv.KMP\\ToDoApps\\Repository\\Repository.csproj": {
+    "D:\\- INT\\Cv.KMP\\Repo\\cvk\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\- INT\\Cv.KMP\\ToDoApps\\Repository\\Repository.csproj",
+        "projectUniqueName": "D:\\- INT\\Cv.KMP\\Repo\\cvk\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "D:\\- INT\\Cv.KMP\\ToDoApps\\Repository\\Repository.csproj",
+        "projectPath": "D:\\- INT\\Cv.KMP\\Repo\\cvk\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\Permata\\.nuget\\packages\\",
-        "outputPath": "D:\\- INT\\Cv.KMP\\ToDoApps\\Repository\\obj\\",
+        "outputPath": "D:\\- INT\\Cv.KMP\\Repo\\cvk\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -101,8 +101,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\- INT\\Cv.KMP\\ToDoApps\\BsTableQueryable\\BsTableQueryable.csproj": {
-                "projectPath": "D:\\- INT\\Cv.KMP\\ToDoApps\\BsTableQueryable\\BsTableQueryable.csproj"
+              "D:\\- INT\\Cv.KMP\\Repo\\cvk\\BsTableQueryable\\BsTableQueryable.csproj": {
+                "projectPath": "D:\\- INT\\Cv.KMP\\Repo\\cvk\\BsTableQueryable\\BsTableQueryable.csproj"
               }
             }
           }
@@ -140,14 +140,14 @@
         }
       }
     },
-    "D:\\- INT\\Cv.KMP\\ToDoApps\\ToDoApps\\ToDoApps.csproj": {
+    "D:\\- INT\\Cv.KMP\\Repo\\cvk\\ToDoApps\\ToDoApps.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\- INT\\Cv.KMP\\ToDoApps\\ToDoApps\\ToDoApps.csproj",
+        "projectUniqueName": "D:\\- INT\\Cv.KMP\\Repo\\cvk\\ToDoApps\\ToDoApps.csproj",
         "projectName": "ToDoApps",
-        "projectPath": "D:\\- INT\\Cv.KMP\\ToDoApps\\ToDoApps\\ToDoApps.csproj",
+        "projectPath": "D:\\- INT\\Cv.KMP\\Repo\\cvk\\ToDoApps\\ToDoApps.csproj",
         "packagesPath": "C:\\Users\\Permata\\.nuget\\packages\\",
-        "outputPath": "D:\\- INT\\Cv.KMP\\ToDoApps\\ToDoApps\\obj\\",
+        "outputPath": "D:\\- INT\\Cv.KMP\\Repo\\cvk\\ToDoApps\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -171,11 +171,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\- INT\\Cv.KMP\\ToDoApps\\BsTableQueryable\\BsTableQueryable.csproj": {
-                "projectPath": "D:\\- INT\\Cv.KMP\\ToDoApps\\BsTableQueryable\\BsTableQueryable.csproj"
+              "D:\\- INT\\Cv.KMP\\Repo\\cvk\\BsTableQueryable\\BsTableQueryable.csproj": {
+                "projectPath": "D:\\- INT\\Cv.KMP\\Repo\\cvk\\BsTableQueryable\\BsTableQueryable.csproj"
               },
-              "D:\\- INT\\Cv.KMP\\ToDoApps\\Repository\\Repository.csproj": {
-                "projectPath": "D:\\- INT\\Cv.KMP\\ToDoApps\\Repository\\Repository.csproj"
+              "D:\\- INT\\Cv.KMP\\Repo\\cvk\\Repository\\Repository.csproj": {
+                "projectPath": "D:\\- INT\\Cv.KMP\\Repo\\cvk\\Repository\\Repository.csproj"
               }
             }
           }

@@ -4886,11 +4886,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\- INT\\Cv.KMP\\ToDoApps\\BsTableQueryable\\BsTableQueryable.csproj",
+      "projectUniqueName": "D:\\- INT\\Cv.KMP\\Repo\\cvk\\BsTableQueryable\\BsTableQueryable.csproj",
       "projectName": "BsTableQueryable",
-      "projectPath": "D:\\- INT\\Cv.KMP\\ToDoApps\\BsTableQueryable\\BsTableQueryable.csproj",
+      "projectPath": "D:\\- INT\\Cv.KMP\\Repo\\cvk\\BsTableQueryable\\BsTableQueryable.csproj",
       "packagesPath": "C:\\Users\\Permata\\.nuget\\packages\\",
-      "outputPath": "D:\\- INT\\Cv.KMP\\ToDoApps\\BsTableQueryable\\obj\\",
+      "outputPath": "D:\\- INT\\Cv.KMP\\Repo\\cvk\\BsTableQueryable\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
