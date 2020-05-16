@@ -1,0 +1,30 @@
+﻿{
+  "ContextClassName": "CvkmpContext",
+  "ContextNamespace": null,
+  "DefaultDacpacSchema": null,
+  "DoNotCombineNamespace": false,
+  "IdReplace": false,
+  "IncludeConnectionString": true,
+  "ModelNamespace": null,
+  "OutputContextPath": "Contexts",
+  "OutputPath": "Models",
+  "ProjectRootNamespace": "Repository",
+  "SelectedHandlebarsLanguage": 0,
+  "SelectedToBeGenerated": 0,
+  "Tables": [
+    {
+      "HasPrimaryKey": true,
+      "Name": "[dbo].[CheckList]"
+    },
+    {
+      "HasPrimaryKey": true,
+      "Name": "[dbo].[Task]"
+    }
+  ],
+  "UseDatabaseNames": false,
+  "UseFluentApiOnly": false,
+  "UseHandleBars": false,
+  "UseInflector": false,
+  "UseLegacyPluralizer": false,
+  "UseSpatial": false
+}
